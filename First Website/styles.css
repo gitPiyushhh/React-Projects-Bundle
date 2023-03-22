@@ -1,0 +1,14 @@
+.navbar {
+    display: flex;
+}
+
+.navigation {
+    width: fit-content;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item {
+    list-style-type: none;
+    margin-right: 16px;
+}
