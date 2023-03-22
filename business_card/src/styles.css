@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  background-color: orangered;
+}
+
+.h1 {
+  margin: 0;
+  font-family: "inter";
+}
+
+.p {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.2rem;
+  line-height: 150%;
+}
+
+.hero-image {
+  width: 100%;
+  height: 17rem;
+}
+
+.name {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 2.4rem;
+  line-height: 30px;
+  text-align: center;
+}
+
+.role {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.4rem;
+  line-height: 15px;
+  text-align: center;
+  color: #e97928;
+}
+
+.website {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 0.8rem;
+  line-height: 150%;
+  /* identical to box height, or 15px */
+
+  text-align: center;
+  color: blue;
+}
+
+.button {
+  display: flex;
+  background-color: #e97928;
+  border-radius: 0.5rem;
+  width: 90%;
+  text-align: center;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 2.4rem;
+}
+
+.logo {
+  margin-top: 5px;
+  margin-right: 0.5rem;
+}
+
+.text {
+  font-size: 1.2rem;
+  font-family: 'inter';
+  line-height: 1.6rem;
+}
+
+.u-padding {
+  padding: 1rem;
+}
