@@ -1,0 +1,61 @@
+[
+    {
+        "id": 1,
+        "status":"Sold Out",
+          "rating":"5.0",
+          "numberReviews":"6",
+          "title":"Life lessons with Katie Zaferes",
+          "price":"136",
+          "openSpots": 0
+    },
+
+    {
+        "id": 2,
+        "status":"Online",
+          "rating":"4.6",
+          "numberReviews":"30",
+          "title":"Learn wedding photography",
+          "price":"125",
+          "openSpots": 3
+    },
+
+    {
+        "id": 3,
+        "status":"Online",
+          "rating":"4.8",
+          "numberReviews":"2",
+          "title":"Group Mountain Biking",
+          "price":"30",
+          "openSpots": 27
+    },
+
+    {
+        "id": 4,
+        "status":"Sold Out",
+          "rating":"5.0",
+          "numberReviews":"6",
+          "title":"Life lessons with Katie Zaferes",
+          "price":"136",
+          "openSpots": 0
+    },
+
+    {
+        "id": 5,
+        "status":"Online",
+          "rating":"4.6",
+          "numberReviews":"30",
+          "title":"Learn wedding photography",
+          "price":"125",
+          "openSpots": 4
+    },
+
+    {
+        "id": 6,
+        "status":"Closing Soon",
+          "rating":"4.8",
+          "numberReviews":"2",
+          "title":"Group Mountain Biking",
+          "price":"30",
+          "openSpots": 0
+    }    
+]
